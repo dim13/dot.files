@@ -1,0 +1,18 @@
+# xstatbar
+gap	15 0 0 0
+sticky	yes
+fontname		"Helvetica:bold"
+
+command term		xterm
+command lock		xlock
+command	web		chrome
+command	mail		sylpheed
+command	top		"xterm -e top -s 1"
+command	magnify		xmag
+command	clock		xclock
+command	calc		xcalc
+command	screnshot	"scrot -d 3"
+
+ignore	xclock
+ignore	xconsole
+ignore	xload

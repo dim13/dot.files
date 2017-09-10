@@ -1,0 +1,11 @@
+[user]
+	name = Dimitri Sokolyuk
+	email = demon@dim13.org
+[push]
+	default = simple
+[url "git@dim13.org:"]
+	insteadOf = https://git.dim13.org/
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[url "git@bitbucket.org:"]
+	insteadOf = https://bitbucket.org/
